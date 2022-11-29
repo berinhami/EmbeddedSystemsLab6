@@ -1,7 +1,9 @@
 # EmbeddedSystemsLab6
 
 The objective of this lab is to learn the basics of IoT by connecting garage door controllers to our garage stoplight system.
+
 1 system that lights up different LEDs based on requests that are sent from system #2, which uses a sensor to record the distance of an object and then passes requests to system 1 based on that distance:
+
 Red to signal to stop approaching the sensor
 Yellow to signal you are getting to the designated distance
 Green to signal keep approaching the sensor
